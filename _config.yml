@@ -1,5 +1,5 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: kirvanz@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
@@ -8,10 +8,10 @@ name: zkrvn
 title: zkrvn
 description: >
   Insert a desctiption
-url: 
-twitter_username: 
-default_img: /assets/images/seo.jpg
-social:
+#url: 
+#twitter_username: 
+#default_img: /assets/images/seo.jpg
+#social:
 # remove these hash marks if you want to include any social images
 #  - name: twitter
 #    url: https://twitter.com/thomasvaeth
@@ -29,11 +29,11 @@ social:
 #formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
-disqus: test-apkdzgmqhj
+#disqus: test-apkdzgmqhj
 
 # MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+#mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
+#mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
